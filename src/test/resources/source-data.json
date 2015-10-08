@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "name": {
+        "en": "London checked merino wool cape",
+        "fr": "Cape en laine mérinos à carreaux London",
+        "de": "London kariertes Cape aus Merinowolle",
+        "zh": "London 格纹美利奴羊毛披风"
+      },
+      "visible": true,
+      "price": {
+        "divisor": 100,
+        "duty": 0,
+        "tax": 9167,
+        "gross": 55000,
+        "net": 45833,
+        "currency": "GBP"
+      },
+      "onSale": false,
+      "brand": {
+        "id": 1079,
+        "name": {
+          "en": "Burberry London"
+        }
+      },
+      "analyticsKey": "London checked merino wool cape",
+      "id": 602523,
+      "categories": [
+        {
+          "id": 19943,
+          "children": [
+            {
+              "id": 20006,
+              "children": [
+                {
+                  "id": 20294
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "children": [
+            {
+              "id": 4279,
+              "children": [
+                {
+                  "id": 5181
+                },
+                {
+                  "id": 5166
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "children": [
+            {
+              "id": 49,
+              "children": [
+                {
+                  "id": 10627
+                },
+                {
+                  "id": 6385
+                },
+                {
+                  "id": 6130
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "colourIds": [
+        58
+      ],
+      "saleableStandardSizes": [],
+      "badges": [
+        "In_Stock"
+      ]
+    }
+  ]
+}
