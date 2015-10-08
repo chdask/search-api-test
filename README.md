@@ -1,4 +1,4 @@
-# NAP Search API interview test
+# Search API
 
 ## Stack
 For the framework the following stack has been used:
